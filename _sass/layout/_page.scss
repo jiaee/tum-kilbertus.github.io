@@ -51,12 +51,15 @@
 .page__content {
 
   h2 {
-    padding-bottom: 0.5em;
-    border-bottom: 1px solid var(--global-border-color);
+    padding-bottom: 0.75em;
+    margin-bottom: 1.5em;
+    border-bottom: 2px solid var(--global-base-color);
   }
 
   p, li, dl {
     font-size: 1em;
+    line-height: 1.7;
+    margin-bottom: 1.5em;
   }
 
   /* paragraph indents */

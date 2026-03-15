@@ -12,6 +12,7 @@
 
   @include clearfix();
   margin-bottom: 1em;
+  transition: $global-transition;
 
   @media (orientation: portrait) {
     margin-top: 1em;
