@@ -3,6 +3,10 @@ layout: archive
 title: "People"
 permalink: /people/
 author_profile: false
+header:
+  overlay_image: "/images/group-photo.jpg"
+  overlay_filter: "0.5"
+  caption: "Kilbertus Research Group at TU Munich"
 ---
 
 {% include base_path %}
