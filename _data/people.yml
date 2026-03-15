@@ -1,0 +1,75 @@
+# Group Members Data
+# Roles: "pi", "postdoc", "phd", "master", "bachelor", "alumni", "staff"
+
+principal_investigator:
+  - name: "Prof. Dr. Niki Kilbertus"
+    role: "Group Leader"
+    avatar: "profile.png"
+    bio: "Niki Kilbertus leads the research group on trustworthy machine learning. His work focuses on causal inference, fairness in machine learning, and privacy-preserving methods."
+    website: "https://www.kiml.io"
+    email: "niki.kilbertus@tum.de"
+    googlescholar: "https://scholar.google.com/citations?user=kilbertus"
+    github: "nkilbertus"
+    twitter: "nkilbertus"
+
+postdocs:
+  - name: "Dr. Jane Smith"
+    role: "Postdoctoral Researcher"
+    avatar: "profile.png"
+    bio: "Jane's research focuses on causal discovery and interventional reasoning in complex systems."
+    email: "jane.smith@tum.de"
+    website:
+    googlescholar:
+    github:
+
+phd_students:
+  - name: "Alice Mueller"
+    role: "PhD Student"
+    avatar: "profile.png"
+    bio: "Alice works on fairness-aware machine learning with applications in healthcare decision systems."
+    email: "alice.mueller@tum.de"
+    website:
+    googlescholar:
+    github:
+    year_started: 2021
+
+  - name: "Bob Chen"
+    role: "PhD Student"
+    avatar: "profile.png"
+    bio: "Bob researches privacy-preserving federated learning and differential privacy guarantees."
+    email: "bob.chen@tum.de"
+    website:
+    googlescholar:
+    github:
+    year_started: 2022
+
+  - name: "Clara Vogel"
+    role: "PhD Student"
+    avatar: "profile.png"
+    bio: "Clara focuses on Bayesian methods for causal inference and uncertainty quantification."
+    email: "clara.vogel@tum.de"
+    website:
+    googlescholar:
+    github:
+    year_started: 2023
+
+master_students:
+  - name: "David Park"
+    role: "Master's Student"
+    bio: "David is working on his thesis on robust causal effect estimation under distribution shift."
+    email: "david.park@tum.de"
+
+alumni:
+  - name: "Dr. Eva Fischer"
+    role: "PhD Alumni"
+    bio: "Eva completed her PhD in 2023. She is now a research scientist at XYZ Labs."
+    thesis: "Algorithmic Fairness under Causal Constraints"
+    current_position: "Research Scientist, XYZ Labs"
+    website:
+
+  - name: "Felix Wagner"
+    role: "Master's Alumni"
+    bio: "Felix completed his Master's thesis in 2022 and is now a PhD student at ETH Zürich."
+    thesis: "Causal Structure Learning for Time-Series Data"
+    current_position: "PhD Student, ETH Zürich"
+    website:
