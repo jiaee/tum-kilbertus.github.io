@@ -1,0 +1,65 @@
+# Research Projects Data
+
+active:
+  - title: "Causal Fairness in Machine Learning"
+    image: "profile.png"
+    description: >
+      We develop causal frameworks to rigorously define and enforce fairness in automated decision-making systems.
+      This project investigates how causal assumptions can help distinguish between legitimate and discriminatory
+      uses of sensitive attributes in predictive models.
+    topics:
+      - Algorithmic Fairness
+      - Causal Inference
+      - Decision-Making
+    funding: "DFG Priority Programme SPP 1798"
+    members:
+      - "Prof. Dr. Niki Kilbertus"
+      - "Alice Mueller"
+    publications_url: /publications/
+    start_year: 2021
+
+  - title: "Privacy-Preserving Federated Learning"
+    image: "profile.png"
+    description: >
+      This project designs federated learning algorithms that enable collaborative model training across
+      distributed data sources without sharing raw data. We provide formal differential privacy guarantees
+      and study the privacy-utility trade-off in real-world applications.
+    topics:
+      - Federated Learning
+      - Differential Privacy
+      - Distributed Optimization
+    funding: "BMBF"
+    members:
+      - "Prof. Dr. Niki Kilbertus"
+      - "Bob Chen"
+    publications_url: /publications/
+    start_year: 2022
+
+  - title: "Uncertainty Quantification with Bayesian Causal Models"
+    image: "profile.png"
+    description: >
+      We combine Bayesian inference with causal graphical models to better quantify and communicate
+      uncertainty in causal effect estimates, with applications in clinical decision support.
+    topics:
+      - Bayesian Methods
+      - Causal Inference
+      - Healthcare AI
+    funding: "Helmholtz AI"
+    members:
+      - "Prof. Dr. Niki Kilbertus"
+      - "Dr. Jane Smith"
+      - "Clara Vogel"
+    publications_url: /publications/
+    start_year: 2023
+
+past:
+  - title: "Causal Discovery from Observational Data"
+    description: >
+      Developed scalable algorithms for learning causal structure from large observational datasets,
+      with theoretical guarantees under various faithfulness and Markov assumptions.
+    topics:
+      - Causal Discovery
+      - Structure Learning
+    end_year: 2022
+    members:
+      - "Dr. Eva Fischer"
