@@ -19,9 +19,9 @@ We are part of the [TUM School of Computation, Information and Technology](https
 
 ## Research Highlights
 
-- [Causal Fairness in Machine Learning](/projects/) — Formal causal frameworks for fairness in automated decision-making
-- [Privacy-Preserving Federated Learning](/projects/) — Collaborative learning with differential privacy guarantees
-- [Uncertainty Quantification with Bayesian Causal Models](/projects/) — Rigorous uncertainty estimates for causal effects
+- [Causal Fairness in Machine Learning](/join/#research-projects) — Formal causal frameworks for fairness in automated decision-making
+- [Privacy-Preserving Federated Learning](/join/#research-projects) — Collaborative learning with differential privacy guarantees
+- [Uncertainty Quantification with Bayesian Causal Models](/join/#research-projects) — Rigorous uncertainty estimates for causal effects
 
 ## Latest News
 
